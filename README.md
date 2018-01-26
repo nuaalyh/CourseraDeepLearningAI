@@ -1,2 +1,3 @@
 # CourseraDeelLearningAI
-Cousera specialization for deep learning
+Coursera specialization for deep learning.
+Link: https://www.coursera.org/specializations/deep-learning

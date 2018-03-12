@@ -1,4 +1,4 @@
-# CourseraDeepLearningAI
+# Coursera DeepLearning AI
 Coursera specialization for deep learning. See [details](https://www.coursera.org/specializations/deep-learning). <br />
 
 ## Course 1: Neural Networks and Deep Learning
